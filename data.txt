@@ -1,0 +1,14 @@
+Pralka: Domyslna nazwa
+Moc: 2000
+Pojemnosc: 20
+Lodowka: Domyslna nazwa
+Moc: 2500
+Maksymalna liczba polek: 5
+Rozmiar polki: 300
+Lodowka multimedialna: Domyslna firma
+Moc: 2000
+Maksymalna liczba polek: 5
+Rozmiar polki: 300
+Moc glosnikow: 30
+Wifi: 0
+Bluetooth: 0
